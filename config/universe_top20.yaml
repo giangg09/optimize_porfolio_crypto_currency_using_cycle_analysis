@@ -1,0 +1,24 @@
+as_of: '2025-09-30'
+base_currency: 'USDT'
+symbols:
+  - BTC/USDT
+  - BCH/USDT
+  - ETH/USDT
+  - SOL/USDT
+  - BNB/USDT
+  - XRP/USDT
+  - ADA/USDT
+  - AVAX/USDT
+  - DOT/USDT
+  - TRX/USDT
+  - LINK/USDT
+  - UNI/USDT
+  - ATOM/USDT
+  - LTC/USDT
+  - DOGE/USDT
+  - XLM/USDT
+  - EOS/USDT
+  - A/USDT
+  - ETC/USDT
+  - NEO/USDT
+  - XTZ/USDT
