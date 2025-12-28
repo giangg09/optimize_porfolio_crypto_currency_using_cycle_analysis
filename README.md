@@ -1,4 +1,5 @@
 Mô tả dự án
+
 Dự án phân tích chế độ thị trường (market regimes) của Bitcoin và các altcoin, nghiên cứu hiệu ứng lan tỏa (spillover effects) giữa các tài sản, và phát triển chiến lược giao dịch dựa trên phân tích này.
 Cấu trúc thư mục
 ├── config/                    # File cấu hình
