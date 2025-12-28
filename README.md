@@ -4,7 +4,7 @@ Dự án phân tích chế độ thị trường (market regimes) của Bitcoin 
 
 
 ## Cấu trúc thư mục
-
+```
 ├── config/                    # File cấu hình
 │   └── universe_top20.yaml   # Danh sách 20 cryptocurrency
 ├── data/
@@ -19,7 +19,7 @@ Dự án phân tích chế độ thị trường (market regimes) của Bitcoin 
 │   ├── 3_Spillover_Analysis.ipynb
 │   └── 4_Backtesting_Strategy.ipynb
 └── results/                  # Kết quả và biểu đồ
-
+```
 
 ## Quy trình phân tích
 
